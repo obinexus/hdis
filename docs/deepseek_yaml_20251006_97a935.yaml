@@ -1,0 +1,21 @@
+# OBINexus IaaS Stack
+neurodivergent_computing_stack:
+  witness_layer:
+    - hdis_witness_engine
+    - coherence_monitor
+    - derivative_exhaustion_tracker
+    
+  accessibility_layer:
+    - opensense_infrastructure
+    - fud_mitigation
+    - sensory_adaptation
+    
+  component_layer:
+    - rust_semverx
+    - hot_swappable_components
+    - dependency_resolver
+    
+  interaction_layer:
+    - motion_controller
+    - gesture_recognition
+    - phenotype_driven_ui
