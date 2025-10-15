@@ -40,6 +40,28 @@ This is **Computing from the Heart (OBI)** - where the soul of technology serves
 ---
 
 ## Vision: Active Systems for Human Dignity
+`
+To build active comptuign system know with directed instruction fautl toreent infasture as keep via infrstu where system are coherte
+basewd on human in he loop test of 95.4% .Active systm know how to resolve systm decoher with automatic check for susbion with bioecosni revoey proto for safy cirticl system
+what hdis repse is new computing infrasion where human cnetirc feedloop for innvoaion.
+
+
+Active comptuisn systems suhc as :
+- DIRAM github.com/obinexus/{diramc/diram} whic is active ram ssytm hih knwo what is doing to fix it tempro emtoy corrupin gover lookahead protool
+wher a protol resovle corrupt states.
+
+- DISSD - Direxted instruction solid state drive  which store wha tis need and remove reducnt state based on consion widet consumer oberser procolt
+etc
+
+- DIPAD - which is a suite of inteeiton rust-semverx keyword singi equat wher hotsappel is a enseron part of customize fo neurodiver baed on github.com/obinexus/opensense-infrasture
+which is opensensory infrieon fur fear unceity adn doubt imtioan
+wherinput and obser taibel toocurp via bubblinh anto captuoon with even wath with all llosse alogion in github.com/obinexus/gosilang
+
+with youtube.com/obinexus/playlists/
+github.com/obinexus/rust-semverx
+
+adn youtube
+`
 
 ### The Dual Crisis We Solve
 
