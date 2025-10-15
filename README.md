@@ -61,6 +61,10 @@ with youtube.com/obinexus/playlists/
 github.com/obinexus/rust-semverx
 
 adn youtube
+
+
+DIMO - DIRECTION invearn systm fo hitm in the lop wher direction instion motion framwok basd on opensesn infraion for github.com/obinexus/opensense-motion 
+opneses motion for obinexus ui and ux iion github.com/obinexus/obix where obix stands for heart/soul and x thation ui and ux react liek with semvefrx mapping
 `
 
 ### The Dual Crisis We Solve
